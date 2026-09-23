@@ -1,0 +1,6 @@
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+node_modules/
+tests/.smoke_tmp/
