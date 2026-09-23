@@ -1,0 +1,13 @@
+{
+    "title": "WolfyPhone",
+    "type": "servercontent",
+    "tags": ["roleplay", "fun"],
+    "ignore": [
+        ".git*",
+        "*.md",
+        "LICENSE",
+        "docs/*",
+        "tests/*",
+        ".gitignore"
+    ]
+}
